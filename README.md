@@ -1,4 +1,4 @@
-# Breast-Cancer-Predictions
+# Breast Cancer Predictions
 
 **Aim of this project** : predict if the cancer diagnosis is benign or malignant based on several observations/features 
 
